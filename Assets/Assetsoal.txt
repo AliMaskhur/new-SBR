@@ -1,0 +1,35 @@
+Di antara bangun berikut ini, yang paling banyak memiliki simetri lipat adalah …
++Trapesium
++Persegi
++Belah ketupat
++Lingkaran
++D
++soal1
+#Sebuah kubus memiliki jumlah rusuk sebanyak … buah.
++6
++8
++10
++12
++D
++soal2
+#Bangun ruang di bawah ini yang mempunyai jumlah sisi sebanyak 3 buah adalah …
++Kerucut
++Bola
++Tabung
++Kubus
++C
++soal4
+#Jumlah sudut yang dimiliki balok adalah …
++6
++8
++12
++20
++B
++soal5
+#Di bawah ini yang tidak termasuk sifat bangun ruang balok adalah …
++Mempunyai 6 buah sisi
++Mempunyai 12 rusuk
++Mempunyai 10 titik sudut
++Paling sedikit memiliki 4 buah sisi persegi Panjang
++C
++soal3

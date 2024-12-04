@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042691009915",
+    "project_id": "sahabat-bangun-ruang",
+    "storage_bucket": "sahabat-bangun-ruang.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042691009915:android:de14b12e34466d71a561de",
+        "android_client_info": {
+          "package_name": "com.SahabatBangunRuang.firebasedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0xcwXFDmnuhx4OlhuS52I82diM4VdsRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
